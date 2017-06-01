@@ -16,6 +16,12 @@
 
 LOCAL_PATH := device/leeco/s2
 
+# Target to use CAF msm8952 HARDWARE/QCOM - Audio , Bluetooth , Display and Media.
+TARGET_QCOM_AUDIO_VARIANT := caf-msm8952
+TARGET_QCOM_BLUETOOTH_VARIANT := caf-msm8952
+TARGET_QCOM_DISPLAY_VARIANT := caf-msm8952
+TARGET_QCOM_MEDIA_VARIANT := caf-msm8952
+
 # Headers
 TARGET_SPECIFIC_HEADER_PATH := $(LOCAL_PATH)/include
 
