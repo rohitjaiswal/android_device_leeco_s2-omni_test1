@@ -141,7 +141,7 @@ PRODUCT_PACKAGES += \
 
 # Charger
 PRODUCT_PACKAGES += \
-    charger_res_images
+    omni_charger_res_images
 
 # CMActions
 PRODUCT_PACKAGES += \
